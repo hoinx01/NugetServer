@@ -1,0 +1,5 @@
+/.vs/*
+/packages/*
+/SrvCornet.NugetServer/bin/*
+/SrvCornet.NugetServer/obj/*
+/SrvCornet.NugetServer/Packages/*
